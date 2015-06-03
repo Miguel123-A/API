@@ -1,0 +1,13 @@
+{
+    "name": "vendor/a-p-i",
+    "description": "Description of project API.",
+    "authors": [
+        {
+            "name": "miguel",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "slim/slim": "dev-master"
+    }
+}
