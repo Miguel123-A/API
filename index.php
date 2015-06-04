@@ -9,7 +9,7 @@
 /**
  * Description of index
  *
- * @author cambios
+ * @author cambios otro
  */
 require_once 'vendor/autoload.php';
 require_once 'DB/util/init.php';
