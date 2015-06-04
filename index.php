@@ -9,7 +9,7 @@
 /**
  * Description of index
  *
- * @author 
+ * @author Cambios
  */
 require_once 'vendor/autoload.php';
 require_once 'DB/util/init.php';
